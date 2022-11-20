@@ -1,0 +1,95 @@
+
+body{
+    background: linear-gradient(90deg, rgba(230,135,152,1) 0%, rgba(0,212,255,1) 100%);
+}
+h1{
+    text-align: center;
+    color:rgb(117, 13, 48);
+    font-family: 'Dancing Script', cursive;
+}
+input{
+    padding: 5px;
+}
+#button{
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+    color: #000;
+    background-color: rgb(253, 171, 199);
+    text-decoration: none;
+}
+.forms{
+    /* padding: 1.25rem; */
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.forms input{
+   font-size: 1.4rem;
+}
+button{
+    font-size: larger;
+}
+.boxes{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.boxes h3{
+    border: 5px solid rgb(255, 200, 200);
+    text-align: center;
+    padding: 4px 6.7rem 4px 6.7rem;
+    background-color: rgb(223, 243, 143);
+    border-radius: 10px;
+}
+#btn2{
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+    color: #000;
+    background-color: rgb(253, 171, 199);
+    text-decoration: none;
+
+
+}
+#td1{
+      width: 21%;  
+      border: 2px solid palevioletred;
+    text-align: center;
+    /* padding: 9px 2rem 9px 2rem;  */
+    /* background-color: orangered;  */
+    height: 20px;
+}
+#td2{
+    width: 21%;
+    border: 2px solid palevioletred;
+    text-align: center;
+    /* padding: 9px 2rem 9px 2rem; */
+    /* background-color: aqua; */
+    height: 20px; 
+
+}
+#td3{
+    width: 21%;
+    border: 2px solid palevioletred;
+    text-align: center;
+    padding-left: 20px;
+    /* background-color: greenyellow;  */
+    height: 20px;
+}
+#tablee{
+ width: 92.2%;  
+ margin: auto;
+ /* background-color: pink; */
+
+}
+#trr{
+    display: flex;
+    justify-content:space-between;
+    /* background-color: red; */
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
